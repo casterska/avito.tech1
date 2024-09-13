@@ -17,7 +17,7 @@
 
 ## Требования перед началом
 - Установите Python версии 3.x.
-- Склонируйте репозиторий с тестами с помощью команды `git clone https://gitverse.ru/akaCaster` 
+- Склонируйте репозиторий с тестами с помощью команды `git clone https://github.com/casterska/avito.tech1` 
 - Включить виртуальное окружение `source venv/Scripts/activate`
 - Установить все библиотеки командой `pip install -r requirements.txt`
 
